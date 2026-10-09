@@ -1,0 +1,10 @@
+COMARES AUDIOWANDELING
+
+1. Pak het zipbestand uit.
+2. Upload de inhoud van de map naar de hoofdmap van je GitHub-repository. index.html moet rechtstreeks in de hoofdmap staan.
+3. Bewaar de mappen photos en assets met hun inhoud.
+4. Activeer GitHub Pages via Settings > Pages > Deploy from a branch > main > /(root).
+
+Voorgestelde repositorynaam: Comares-audiowandeling
+
+Voor de kaart en audio is internet nodig. Locatie tonen vraagt toestemming en werkt op de HTTPS-website. De GPX-route bevat geen door ons toegevoegde audiopunten.
